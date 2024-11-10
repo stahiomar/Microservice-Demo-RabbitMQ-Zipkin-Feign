@@ -70,9 +70,9 @@ OpenFeign enables synchronous communication between the `Order Service` and `Inv
 3. **Distributed Tracing**: Zipkin records and displays the traces, allowing you to visualize the interaction between the services.
 
 ## How to do the demo
-you need just to run the two microservices then open postman and do this post request here http://localhost:9000/api/order
-open zipkin and click on run query
-open rabbitmq and the username and the password are guest
-then explore the things and the tools yourself
+-you need just to run the two microservices then open postman and do this post request here http://localhost:9000/api/order
+-open zipkin and click on run query
+-open rabbitmq and the username and the password are guest
+-then explore the things and the tools yourself
 
 #### Good coding journey 😊
